@@ -96,7 +96,7 @@
             <TextView
                 android:id="@+id/click_download"
                 android:layout_width="match_parent"
-                android:text="Скачать видео"
+                android:text="Скачать аудио с ютуба"
                 android:textStyle="bold"
                 android:paddingTop="5dp"
                 android:paddingBottom="5dp"
